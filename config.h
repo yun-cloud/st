@@ -5,7 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char font[] = "Inconsolata-g_for_Powerline:style=g:size=18";
+static char font[] = "Input Mono:style=g:size=18";
+//static char font[] = "Inconsolata-g_for_Powerline:style=g:size=18";
 //static char font[] = "Liberation Mono:pixelsize=12:antialias=true:autohint=true";
 static int borderpx = 2;
 
